@@ -6,7 +6,7 @@ FROM mongo:7
 # add label for configuration
 LABEL maintainer="naser.mortezaee"
 LABEL version="1.0"
-LABEL description="customized mysql latest"
+LABEL description="customized mongodbo latest"
 
 
 # database configuration
